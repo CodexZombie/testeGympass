@@ -1,0 +1,6 @@
+O programa foi desenvolvido na linguagem Python Versão 3.7.0
+
+O arquivo 'corrida.log' foi o arquivo utilizado para testes.
+
+INTRUÇÕES:
+ - No console, execute o arquivo 'main.py', em seguida, insira a URL do arquivo de log da corrida e pressione enter.
